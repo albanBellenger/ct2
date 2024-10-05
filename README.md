@@ -20,8 +20,12 @@ A list of links and info about the lever machine.
   - [Naked filter gauge](https://www.naked-portafilter.com/product/strietman-levers-ct1-and-es3/)
   - [Twist Lock Funnel by Sworksdesign](https://sworksdesign.com/Twist-Lock-Funnel-Adapter-for-Strietman-p496362088)
 ### "Slim" scale
-  - [Lunar (2021) by acaia](https://acaia.co/products/lunar_2021)
-  - [Pyxis by acaia](https://acaia.co/collections/coffee-scales/products/pyxis?variant=42060048728292) - SOLD OUT
+
+| Name/Brand    | Height |
+| --------      | ------- | 
+| [Lunar (2021) by acaia](https://acaia.co/products/lunar_2021)  | 15 mm    |
+| [Pyxis by acaia](https://acaia.co/collections/coffee-scales/products/pyxis?variant=42060048728292) - SOLD OUT | 13 mm     |
+
 ### Compatible cups
 
 ## Social & Community
