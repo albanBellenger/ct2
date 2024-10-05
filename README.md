@@ -33,7 +33,12 @@ A list of links and info about the lever machine.
   - [Home barista](https://www.home-barista.com/levers/user-experience-with-strietman-ct2-t61517.html)
 ### Discord Servers
 ### Subreddits
-### Youtube channels
+### Youtube channels/videos
+#### Review
+  - [Review by Lance Hedrick](https://www.youtube.com/watch?v=-6uzXwEhPF4), July 2024
+#### Routine
+  - [Expresso routine by The Lever](https://www.youtube.com/watch?v=aqziXlH5fnQ), April 2021
+  - [the art of expresso](https://www.youtube.com/watch?v=C2EM0DvZot4), September 2018
 
 ## Publications
 * [Strietman CT2 review, The Lever mag](https://thelevermag.com/blogs/articles/strietman-ct2) by Simone Forgia, Claudio Santoro
