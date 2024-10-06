@@ -23,10 +23,13 @@ A list of links and info about the lever machine.
 
 | Name/Brand    | Height |
 | --------      | ------- | 
-| [Lunar (2021) by acaia](https://acaia.co/products/lunar_2021)  | 15 mm    |
-| [Pyxis by acaia](https://acaia.co/collections/coffee-scales/products/pyxis?variant=42060048728292) - SOLD OUT | 13 mm     |
+| [Lunar (2021) by acaia](https://acaia.co/products/lunar_2021)  | 15mm    |
+| [Pyxis by acaia](https://acaia.co/collections/coffee-scales/products/pyxis?variant=42060048728292) - SOLD OUT | 13mm     |
 
 ### Compatible cups
+|Name/Brand|Height|
+|----------|------| 
+|[Dé by Design quarter](https://designquarters.com/new-arrivals/de-by-ann-demeulemeester/de-espresso-cup-18186.html)|31.75mm (1.25")|
 
 ## Social & Community
 ### Forums threads
