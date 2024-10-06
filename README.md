@@ -19,8 +19,10 @@ A list of links and info about the lever machine.
 ### Mod & Gear
   - [Naked filter gauge](https://www.naked-portafilter.com/product/strietman-levers-ct1-and-es3/)
   - [Twist Lock Funnel by Sworksdesign](https://sworksdesign.com/Twist-Lock-Funnel-Adapter-for-Strietman-p496362088)
+  - [49.7mm puck screen by Sworksdesign](https://sworksdesign.com/Puck-Disc-Screen-p504672678)
 ### Shaker
  - [Espresso Shaker Funnel II by Craig Lyn Design studio](https://craiglyn.com/product/espresso-shaker-funnel-ii/)
+
 ### "Slim" scale
 
 | Name/Brand    | Height |
@@ -34,6 +36,8 @@ A list of links and info about the lever machine.
 |[Dé by Design quarter](https://designquarters.com/new-arrivals/de-by-ann-demeulemeester/de-espresso-cup-18186.html)|31.75mm (1.25")|
 
 ## Social & Community
+### Blogs
+ - [FRAU ANTJE](https://frauantje.info/kategorie/die-strietman-ct2/) :de:
 ### Forums threads
   - [Home barista](https://www.home-barista.com/levers/user-experience-with-strietman-ct2-t61517.html)
 ### Discord Servers
