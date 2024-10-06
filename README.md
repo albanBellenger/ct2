@@ -19,6 +19,8 @@ A list of links and info about the lever machine.
 ### Mod & Gear
   - [Naked filter gauge](https://www.naked-portafilter.com/product/strietman-levers-ct1-and-es3/)
   - [Twist Lock Funnel by Sworksdesign](https://sworksdesign.com/Twist-Lock-Funnel-Adapter-for-Strietman-p496362088)
+### Shaker
+ - [Espresso Shaker Funnel II by Craig Lyn Design studio](https://craiglyn.com/product/espresso-shaker-funnel-ii/)
 ### "Slim" scale
 
 | Name/Brand    | Height |
