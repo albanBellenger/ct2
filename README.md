@@ -22,6 +22,8 @@ A list of links and info about the lever machine.
   - [49.7mm puck screen by Sworksdesign](https://sworksdesign.com/Puck-Disc-Screen-p504672678)
 ### Shaker
  - [Espresso Shaker Funnel II by Craig Lyn Design studio](https://craiglyn.com/product/espresso-shaker-funnel-ii/)
+### 49.7m Tampers
+ - [Normcore / Spring Loaded Tamper  v4](https://www.normcorewares.com/products/normcore-spring-loaded-tamper-upgrate-v4?variant=40270089814212)
 
 ### "Slim" scale
 
