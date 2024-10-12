@@ -24,6 +24,7 @@ A list of links and info about the lever machine.
  - [Espresso Shaker Funnel II by Craig Lyn Design studio](https://craiglyn.com/product/espresso-shaker-funnel-ii/)
 ### 49.7m Tampers
  - [Normcore / Spring Loaded Tamper  v4](https://www.normcorewares.com/products/normcore-spring-loaded-tamper-upgrate-v4?variant=40270089814212)
+ - [Retrofit by escherlabs](https://www.etsy.com/sg-en/listing/1620892016/custom-499-tamper-base-retrofit)
 
 ### "Slim" scale
 
